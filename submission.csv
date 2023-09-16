@@ -193,7 +193,7 @@ id,Made_Purchase
 191,False
 192,True
 193,True
-194,False
+194,True
 195,False
 196,False
 197,True
@@ -217,7 +217,7 @@ id,Made_Purchase
 215,False
 216,False
 217,False
-218,False
+218,True
 219,False
 220,True
 221,False
@@ -234,7 +234,7 @@ id,Made_Purchase
 232,True
 233,False
 234,True
-235,False
+235,True
 236,False
 237,False
 238,False
@@ -276,7 +276,7 @@ id,Made_Purchase
 274,False
 275,False
 276,False
-277,False
+277,True
 278,False
 279,False
 280,False
@@ -286,7 +286,7 @@ id,Made_Purchase
 284,False
 285,False
 286,False
-287,False
+287,True
 288,False
 289,False
 290,False
@@ -599,12 +599,12 @@ id,Made_Purchase
 597,True
 598,False
 599,False
-600,False
+600,True
 601,False
 602,False
 603,False
 604,False
-605,False
+605,True
 606,False
 607,False
 608,False
@@ -612,7 +612,7 @@ id,Made_Purchase
 610,False
 611,False
 612,False
-613,False
+613,True
 614,False
 615,False
 616,False
@@ -735,7 +735,7 @@ id,Made_Purchase
 733,False
 734,False
 735,True
-736,False
+736,True
 737,False
 738,False
 739,False
@@ -957,7 +957,7 @@ id,Made_Purchase
 955,False
 956,False
 957,False
-958,False
+958,True
 959,False
 960,False
 961,False
@@ -1006,7 +1006,7 @@ id,Made_Purchase
 1004,True
 1005,False
 1006,False
-1007,True
+1007,False
 1008,False
 1009,False
 1010,False
@@ -1060,7 +1060,7 @@ id,Made_Purchase
 1058,True
 1059,False
 1060,False
-1061,False
+1061,True
 1062,False
 1063,False
 1064,True
@@ -1095,7 +1095,7 @@ id,Made_Purchase
 1093,False
 1094,True
 1095,False
-1096,True
+1096,False
 1097,False
 1098,False
 1099,False
@@ -1151,14 +1151,14 @@ id,Made_Purchase
 1149,False
 1150,False
 1151,False
-1152,False
+1152,True
 1153,True
 1154,False
 1155,False
 1156,False
-1157,False
+1157,True
 1158,False
-1159,False
+1159,True
 1160,False
 1161,False
 1162,True
@@ -1346,7 +1346,7 @@ id,Made_Purchase
 1344,False
 1345,False
 1346,False
-1347,False
+1347,True
 1348,False
 1349,False
 1350,True
@@ -1496,7 +1496,7 @@ id,Made_Purchase
 1494,False
 1495,False
 1496,True
-1497,False
+1497,True
 1498,False
 1499,False
 1500,False
@@ -1659,8 +1659,8 @@ id,Made_Purchase
 1657,False
 1658,False
 1659,False
-1660,False
-1661,False
+1660,True
+1661,True
 1662,True
 1663,False
 1664,False
@@ -1689,7 +1689,7 @@ id,Made_Purchase
 1687,False
 1688,True
 1689,False
-1690,False
+1690,True
 1691,False
 1692,False
 1693,False
@@ -1752,7 +1752,7 @@ id,Made_Purchase
 1750,False
 1751,False
 1752,False
-1753,False
+1753,True
 1754,False
 1755,False
 1756,True
@@ -1900,7 +1900,7 @@ id,Made_Purchase
 1898,False
 1899,True
 1900,False
-1901,False
+1901,True
 1902,False
 1903,False
 1904,True
@@ -1976,7 +1976,7 @@ id,Made_Purchase
 1974,False
 1975,False
 1976,False
-1977,False
+1977,True
 1978,False
 1979,True
 1980,True
@@ -1993,7 +1993,7 @@ id,Made_Purchase
 1991,False
 1992,False
 1993,True
-1994,False
+1994,True
 1995,False
 1996,False
 1997,False
@@ -2140,11 +2140,11 @@ id,Made_Purchase
 2138,True
 2139,True
 2140,False
-2141,False
+2141,True
 2142,False
 2143,False
 2144,False
-2145,False
+2145,True
 2146,False
 2147,False
 2148,False
@@ -2186,7 +2186,7 @@ id,Made_Purchase
 2184,True
 2185,False
 2186,False
-2187,False
+2187,True
 2188,False
 2189,False
 2190,False
@@ -2279,7 +2279,7 @@ id,Made_Purchase
 2277,False
 2278,False
 2279,False
-2280,False
+2280,True
 2281,False
 2282,False
 2283,False
@@ -2503,7 +2503,7 @@ id,Made_Purchase
 2501,True
 2502,False
 2503,True
-2504,True
+2504,False
 2505,True
 2506,False
 2507,False
@@ -2594,7 +2594,7 @@ id,Made_Purchase
 2592,False
 2593,False
 2594,False
-2595,False
+2595,True
 2596,False
 2597,True
 2598,False
@@ -2671,10 +2671,10 @@ id,Made_Purchase
 2669,False
 2670,False
 2671,False
-2672,True
+2672,False
 2673,True
 2674,True
-2675,True
+2675,False
 2676,False
 2677,False
 2678,False
@@ -2812,7 +2812,7 @@ id,Made_Purchase
 2810,True
 2811,False
 2812,True
-2813,True
+2813,False
 2814,False
 2815,False
 2816,True
@@ -2873,7 +2873,7 @@ id,Made_Purchase
 2871,False
 2872,False
 2873,False
-2874,True
+2874,False
 2875,False
 2876,False
 2877,False
@@ -2958,7 +2958,7 @@ id,Made_Purchase
 2956,False
 2957,True
 2958,False
-2959,False
+2959,True
 2960,False
 2961,False
 2962,True
@@ -3045,7 +3045,7 @@ id,Made_Purchase
 3043,False
 3044,False
 3045,False
-3046,True
+3046,False
 3047,False
 3048,True
 3049,False
@@ -3080,7 +3080,7 @@ id,Made_Purchase
 3078,False
 3079,False
 3080,False
-3081,True
+3081,False
 3082,False
 3083,False
 3084,False
@@ -3134,7 +3134,7 @@ id,Made_Purchase
 3132,False
 3133,False
 3134,False
-3135,True
+3135,False
 3136,False
 3137,False
 3138,False
@@ -3275,7 +3275,7 @@ id,Made_Purchase
 3273,False
 3274,False
 3275,False
-3276,True
+3276,False
 3277,False
 3278,False
 3279,False
@@ -3381,7 +3381,7 @@ id,Made_Purchase
 3379,False
 3380,False
 3381,False
-3382,True
+3382,False
 3383,True
 3384,False
 3385,True
@@ -3653,7 +3653,7 @@ id,Made_Purchase
 3651,False
 3652,True
 3653,True
-3654,True
+3654,False
 3655,False
 3656,False
 3657,True
@@ -3699,7 +3699,7 @@ id,Made_Purchase
 3697,True
 3698,False
 3699,False
-3700,True
+3700,False
 3701,True
 3702,False
 3703,True
@@ -3751,7 +3751,7 @@ id,Made_Purchase
 3749,False
 3750,True
 3751,False
-3752,True
+3752,False
 3753,True
 3754,False
 3755,True
@@ -3841,7 +3841,7 @@ id,Made_Purchase
 3839,False
 3840,False
 3841,False
-3842,False
+3842,True
 3843,False
 3844,True
 3845,True
@@ -3885,7 +3885,7 @@ id,Made_Purchase
 3883,False
 3884,False
 3885,False
-3886,True
+3886,False
 3887,False
 3888,False
 3889,False
@@ -3894,7 +3894,7 @@ id,Made_Purchase
 3892,False
 3893,False
 3894,True
-3895,True
+3895,False
 3896,True
 3897,True
 3898,False
@@ -3909,7 +3909,7 @@ id,Made_Purchase
 3907,False
 3908,False
 3909,True
-3910,True
+3910,False
 3911,False
 3912,True
 3913,False
@@ -3949,7 +3949,7 @@ id,Made_Purchase
 3947,True
 3948,True
 3949,False
-3950,True
+3950,False
 3951,False
 3952,False
 3953,True
@@ -3981,12 +3981,12 @@ id,Made_Purchase
 3979,False
 3980,False
 3981,False
-3982,False
+3982,True
 3983,False
 3984,False
 3985,False
 3986,False
-3987,False
+3987,True
 3988,False
 3989,False
 3990,True
@@ -4012,8 +4012,8 @@ id,Made_Purchase
 4010,False
 4011,False
 4012,False
-4013,False
-4014,True
+4013,True
+4014,False
 4015,False
 4016,False
 4017,False
@@ -4047,7 +4047,7 @@ id,Made_Purchase
 4045,False
 4046,False
 4047,True
-4048,True
+4048,False
 4049,False
 4050,True
 4051,False
@@ -4065,7 +4065,7 @@ id,Made_Purchase
 4063,False
 4064,False
 4065,False
-4066,False
+4066,True
 4067,False
 4068,True
 4069,False
@@ -4083,7 +4083,7 @@ id,Made_Purchase
 4081,True
 4082,False
 4083,False
-4084,True
+4084,False
 4085,False
 4086,False
 4087,False
@@ -4137,7 +4137,7 @@ id,Made_Purchase
 4135,False
 4136,False
 4137,False
-4138,True
+4138,False
 4139,False
 4140,False
 4141,False
@@ -4276,7 +4276,7 @@ id,Made_Purchase
 4274,False
 4275,False
 4276,False
-4277,True
+4277,False
 4278,False
 4279,True
 4280,False
@@ -4318,7 +4318,7 @@ id,Made_Purchase
 4316,False
 4317,False
 4318,False
-4319,True
+4319,False
 4320,False
 4321,False
 4322,False
@@ -4331,7 +4331,7 @@ id,Made_Purchase
 4329,False
 4330,False
 4331,True
-4332,False
+4332,True
 4333,False
 4334,False
 4335,False
@@ -4369,7 +4369,7 @@ id,Made_Purchase
 4367,False
 4368,False
 4369,False
-4370,True
+4370,False
 4371,False
 4372,False
 4373,False
@@ -4412,7 +4412,7 @@ id,Made_Purchase
 4410,False
 4411,False
 4412,False
-4413,False
+4413,True
 4414,False
 4415,True
 4416,False
@@ -4449,7 +4449,7 @@ id,Made_Purchase
 4447,False
 4448,True
 4449,False
-4450,True
+4450,False
 4451,False
 4452,False
 4453,False
@@ -4473,7 +4473,7 @@ id,Made_Purchase
 4471,False
 4472,False
 4473,False
-4474,True
+4474,False
 4475,False
 4476,True
 4477,False
@@ -4494,7 +4494,7 @@ id,Made_Purchase
 4492,False
 4493,False
 4494,False
-4495,False
+4495,True
 4496,True
 4497,True
 4498,False
@@ -4547,7 +4547,7 @@ id,Made_Purchase
 4545,False
 4546,False
 4547,False
-4548,False
+4548,True
 4549,False
 4550,False
 4551,True
@@ -4635,7 +4635,7 @@ id,Made_Purchase
 4633,False
 4634,False
 4635,False
-4636,True
+4636,False
 4637,False
 4638,False
 4639,False
@@ -4721,7 +4721,7 @@ id,Made_Purchase
 4719,False
 4720,False
 4721,False
-4722,False
+4722,True
 4723,False
 4724,False
 4725,False
@@ -4816,7 +4816,7 @@ id,Made_Purchase
 4814,False
 4815,False
 4816,False
-4817,False
+4817,True
 4818,False
 4819,True
 4820,False
@@ -4877,7 +4877,7 @@ id,Made_Purchase
 4875,False
 4876,False
 4877,True
-4878,True
+4878,False
 4879,False
 4880,False
 4881,False
@@ -5031,7 +5031,7 @@ id,Made_Purchase
 5029,False
 5030,False
 5031,False
-5032,False
+5032,True
 5033,False
 5034,False
 5035,False
@@ -5112,7 +5112,7 @@ id,Made_Purchase
 5110,False
 5111,False
 5112,False
-5113,False
+5113,True
 5114,False
 5115,False
 5116,False
@@ -5128,7 +5128,7 @@ id,Made_Purchase
 5126,False
 5127,False
 5128,False
-5129,False
+5129,True
 5130,False
 5131,False
 5132,False
@@ -5297,7 +5297,7 @@ id,Made_Purchase
 5295,False
 5296,False
 5297,False
-5298,True
+5298,False
 5299,False
 5300,False
 5301,False
@@ -5325,7 +5325,7 @@ id,Made_Purchase
 5323,False
 5324,False
 5325,False
-5326,True
+5326,False
 5327,False
 5328,False
 5329,True
@@ -5346,7 +5346,7 @@ id,Made_Purchase
 5344,False
 5345,False
 5346,False
-5347,False
+5347,True
 5348,False
 5349,False
 5350,False
@@ -5440,7 +5440,7 @@ id,Made_Purchase
 5438,False
 5439,False
 5440,False
-5441,True
+5441,False
 5442,False
 5443,False
 5444,False
@@ -5479,7 +5479,7 @@ id,Made_Purchase
 5477,False
 5478,False
 5479,False
-5480,True
+5480,False
 5481,False
 5482,False
 5483,False
@@ -5544,7 +5544,7 @@ id,Made_Purchase
 5542,False
 5543,False
 5544,False
-5545,True
+5545,False
 5546,False
 5547,False
 5548,False
@@ -5608,7 +5608,7 @@ id,Made_Purchase
 5606,False
 5607,False
 5608,True
-5609,True
+5609,False
 5610,False
 5611,False
 5612,True
@@ -5855,7 +5855,7 @@ id,Made_Purchase
 5853,False
 5854,False
 5855,False
-5856,True
+5856,False
 5857,False
 5858,False
 5859,False
@@ -5901,7 +5901,7 @@ id,Made_Purchase
 5899,False
 5900,False
 5901,False
-5902,False
+5902,True
 5903,False
 5904,True
 5905,False
@@ -5926,7 +5926,7 @@ id,Made_Purchase
 5924,False
 5925,False
 5926,False
-5927,True
+5927,False
 5928,False
 5929,False
 5930,False
@@ -5954,7 +5954,7 @@ id,Made_Purchase
 5952,False
 5953,False
 5954,False
-5955,True
+5955,False
 5956,False
 5957,False
 5958,False
@@ -6063,7 +6063,7 @@ id,Made_Purchase
 6061,False
 6062,True
 6063,False
-6064,False
+6064,True
 6065,True
 6066,False
 6067,False
@@ -6202,7 +6202,7 @@ id,Made_Purchase
 6200,False
 6201,False
 6202,False
-6203,False
+6203,True
 6204,False
 6205,False
 6206,False
@@ -6531,7 +6531,7 @@ id,Made_Purchase
 6529,False
 6530,False
 6531,False
-6532,True
+6532,False
 6533,True
 6534,False
 6535,False
@@ -6539,7 +6539,7 @@ id,Made_Purchase
 6537,False
 6538,True
 6539,False
-6540,True
+6540,False
 6541,False
 6542,False
 6543,False
@@ -6589,7 +6589,7 @@ id,Made_Purchase
 6587,False
 6588,False
 6589,False
-6590,False
+6590,True
 6591,False
 6592,False
 6593,False
